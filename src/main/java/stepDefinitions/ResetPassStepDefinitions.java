@@ -9,7 +9,7 @@ import pages.ResetPassPage;
 public class ResetPassStepDefinitions {
 
     ResetPassPage resetPassPage = new ResetPassPage();
-    String password = "Pakokosare1";
+    String password = "Flonikingi1";
 
     @When("User click on menu and Change Password")
     public void user_click_on_menu_and_change_password()
